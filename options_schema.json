@@ -13,7 +13,6 @@
             "enum": ["logger", "telemetry"]
           }
         },
-        "required": ["cmd"],
         "additionalProperties": false
       }
     }
