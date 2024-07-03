@@ -10,7 +10,7 @@
           "cmd": {
             "type": "string",
             "description": "Command or tool related to the option",
-            "enum": ["logger", "telemetry"]
+            "enum": ["telemetryLogger", "telemetryMetric", "telemetryTracer"]
           }
         },
         "additionalProperties": false
